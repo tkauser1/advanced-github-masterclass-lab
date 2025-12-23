@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Demo repository for Dependabot security lab",
   "dependencies": {
-    "lodash": "4.17.14"
+    "lodash": "4.17.21"
   }
 }
