@@ -19,8 +19,3 @@ Thank you for contributing to this project! Here are some guidelines to help you
 ## Testing
 - Add tests if your changes introduce new functionality or modify existing code.
 - Ensure all tests pass before submitting a pull request.
-
-## Documentation
-- Update documentation where necessary, especially when making significant changes to the project.
-
-Happy coding!
