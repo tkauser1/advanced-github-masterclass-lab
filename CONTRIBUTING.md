@@ -21,3 +21,4 @@ Thank you for contributing to this project! Here are some guidelines to help you
 - Ensure all tests pass before submitting a pull request.
 
 ## added
+Added guidelines
